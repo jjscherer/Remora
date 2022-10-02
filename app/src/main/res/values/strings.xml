@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">remora</string>
+    <string name="remorse">Remora.</string>
+    <string name="ocean">ocean image</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="new_string">HA</string>
+</resources>
